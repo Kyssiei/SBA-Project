@@ -1,0 +1,36 @@
+#form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+#gif{
+    height: 400px;
+    width: 650px;
+}
+iframe{
+    width: px;
+
+}
+#form{
+    background-color: rgb(255, 188, 219);
+    width: 650px;
+    border-radius: 25px;
+
+}
+#logo{
+    height: 50px;
+    width: 60px;
+}
+#message{
+    height: 90px;
+}
+#button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    
+}

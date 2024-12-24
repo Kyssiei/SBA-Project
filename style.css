@@ -1,0 +1,118 @@
+body{
+    color: pink;
+}
+.mainContainer{
+    background-color: rgb(255, 0, 0);
+    /* height: 3000px; */
+    display: flex;
+    flex-direction: column;
+}
+.header{
+    color: rgb(255, 108, 177);
+    /* display: flex; */
+    /* flex-direction: row; */
+}
+#logo{
+    height: 50px;
+    width: 60px;
+}
+.container1{
+    height: px;
+    width: auto;
+    color: black;
+}
+.carousel-item{
+    height: 750px;
+}
+.container2{
+    display: flex;
+    background-color: aqua;
+    height: 450px;
+}
+#aboutme{
+    height: 300px;
+}
+.container{
+    /* height:;
+    color: pink; */
+}
+#section2{
+    color: black;
+}
+#section1{
+    color: beige;
+    height: 300px;
+    width: 400px;
+}
+#container1{
+    color: black;
+}
+#picture{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: right;
+    align-items: right;
+}
+#about{
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+}
+#pic{
+    height: 500px;
+    padding
+}
+.object-fit-contain{
+    /* height: 600px; */
+}
+video{
+    border-radius: 25px;
+    height: 500px;
+    width: 250px;
+    display: flex;
+    just
+}
+.container3{
+    background-color: cornflowerblue;
+    width: auto;
+    height: 700px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 100px;
+    align-items: center;
+}
+button{
+    align-items: center;
+    width: 150px;
+    align-self: center;
+}
+.container4{
+    display: flex;
+    justify-content: space-around;
+}
+#brands{
+    border-radius: 20px;
+}
+.container5{
+    height: 650px;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+#pic2{
+    height: 600px;
+    width: 500px;
+    border-radius: 25px;
+    padding-top:
+}
+#picture2{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255, 121, 188);
+    border-radius:;
+}
+#discription{
+    background-color: rgb(255, 203, 223);
+}
