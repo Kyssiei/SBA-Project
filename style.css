@@ -2,7 +2,7 @@ body{
     color: pink;
 }
 .mainContainer{
-    background-color: rgb(255, 0, 0);
+    background-color: cornflowerblue;
     /* height: 3000px; */
     display: flex;
     flex-direction: column;
@@ -22,7 +22,7 @@ body{
     color: black;
 }
 .carousel-item{
-    height: 750px;
+    height: 900px;
 }
 .container2{
     display: flex;
@@ -77,10 +77,10 @@ video{
 .container3{
     background-color: cornflowerblue;
     width: auto;
-    height: 700px;
+    height: 550px;
     display: flex;
     justify-content: space-around;
-    padding-top: 100px;
+    /* padding-top: 100px; */
     align-items: center;
 }
 button{
@@ -102,17 +102,24 @@ button{
     padding-top: 20px;
 }
 #pic2{
-    height: 600px;
+    /* height: 650px; */
     width: 500px;
-    border-radius: 25px;
+    /* border-radius: 25px; */
     padding-top:
 }
 #picture2{
+    /* background-image: url(https://i.etsystatic.com/55007492/r/il/44f1e1/6372255073/il_fullxfull.6372255073_1q92.jpg); */
     display: flex;
-    justify-content: center;
+    justify-content: left;
+    margin-left: auto;
     background-color: rgb(255, 121, 188);
     border-radius:;
 }
 #discription{
-    background-color: rgb(255, 203, 223);
+    background-color: rgb(255, 121, 188);
+    justify-content: center;
+    align-items: center;
+}
+#banner{
+    height: 900px;
 }
